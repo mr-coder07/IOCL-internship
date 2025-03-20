@@ -19,4 +19,4 @@ This presentation provides insights into my internship experience at **Indian Oi
 Simply open the PPT file to explore my **hands-on experience, key insights, and technical learnings** during the internship.  
 
 ## File  
-📂 **INTERNSHIP.pptx** 
+📂 **A Behind the Scenes Look : My Indian Oil Internship.pptx** 
